@@ -2,7 +2,7 @@
   <nav class="navbar text-bg-primary">
     <div class="container-fluid">
       <span class="navbar-brand mb-0 h1 text-white">
-        {{ titulo }}
+        {{ titulo }}.
       </span>
     </div>
   </nav>
